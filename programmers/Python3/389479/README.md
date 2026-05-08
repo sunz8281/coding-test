@@ -1,10 +1,10 @@
 # [level 2] 서버 증설 횟수 - 389479 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389479#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389479) 
 
 ### 성능 요약
 
-메모리: 9.1 MB, 시간: 0.07 ms
+메모리: 9.05 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 05월 08일 12:15:29
+2026년 05월 08일 12:19:19
 
 ### 문제 설명
 
