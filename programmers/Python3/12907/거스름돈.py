@@ -5,4 +5,4 @@ def solution(n, money):
     for cash in money:
         for i in range(cash, n+1):
             dp[i] += dp[i-cash]
-    return dp[n]
+    return dp[n]%1000000007
